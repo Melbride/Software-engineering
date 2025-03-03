@@ -87,6 +87,6 @@ Prompt engineering is the practice of crafting effective prompts to guide AI mod
 4. Controls Output Style and Format: Helps shape responses to be technical, creative, or concise based on user needs  
 
 b) Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
-Vague Prompt: Tell me about python
-Improved Prompt: Explain the key features of python programming language including its syntax, applications, and why is it used for Web development
-why the improved prompt is more effective: it is more specific, Increases clarity, guides the AI's response
+- Vague Prompt: Tell me about python
+- Improved Prompt: Explain the key features of python programming language including its syntax, applications, and why is it used for Web development
+- Why the improved prompt is more effective: it is more specific, Increases clarity, guides the AI's response
